@@ -1,0 +1,15 @@
+
+    -------------
+    New Blog Post
+    -------------
+    By unknown on function now() { [native code] }
+
+    I am awesome
+    
+    -----------
+    Todays Blog
+    -----------
+    By Yorgo on Wed Sep 22 2021 20:50:19 GMT+0300 (Eastern European Summer Time)
+
+    Today I learned how to write to a file using nodeJS
+    
